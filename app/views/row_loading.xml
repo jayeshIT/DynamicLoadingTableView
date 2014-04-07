@@ -1,0 +1,5 @@
+<Alloy>
+	<TableViewRow class="loadingRow" id="loadingRow">
+		<ActivityIndicator class="loadingRowIndiacator" id="loadingRowIndiacator"/>
+	</TableViewRow>
+</Alloy>

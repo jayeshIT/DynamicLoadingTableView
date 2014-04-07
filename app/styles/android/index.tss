@@ -1,0 +1,16 @@
+".container": {
+	backgroundColor:"white"
+},
+
+
+".tableViewevent":
+{
+	top : 80,
+	left : 10,
+	right : 10,
+	bottom : 0,
+	separatorColor : "transparent",
+	backgroundColor : "transparent",
+	separatorStyle : 1,
+	showVerticalScrollIndicator : false
+}

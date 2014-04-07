@@ -1,0 +1,11 @@
+<Alloy>
+	<Window class="container">
+		<TableView id="tableViewevent" class="tableViewevent">
+			<HeaderPullView platform="ios">
+				<View class="pull">
+					<Label color="#F2F4F4" bottom="25dp">Header pull view</Label>
+				</View>
+			</HeaderPullView>
+		</TableView>
+	</Window>
+</Alloy>

@@ -1,0 +1,21 @@
+".loadingRow":{
+	height : 100,
+	left : 0,
+	right : 0,
+	name : 'borrow1',
+	inx : 1,
+	backgroundColor : 'teal'
+},
+".loadingRowIndiacator":
+{
+	color : 'white',
+    font : {
+        fontFamily : 'Helvetica Neue',
+        fontSize : 25,
+        fontWeight : 'normal'
+    },
+    message : 'Loading....',
+    style : Ti.UI.ActivityIndicatorStyle.PLAIN,
+    height : Ti.UI.SIZE,
+    width : Ti.UI.SIZE
+}

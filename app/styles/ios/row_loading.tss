@@ -1,0 +1,23 @@
+".loadingRow":
+{
+	height : 70,
+	width : 307,
+	name : 'borrow1',
+	inx : 1,
+	backgroundColor : 'teal'
+},
+".loadingRowIndiacator":
+{
+	color : 'white',
+	font : {
+			fontFamily : 'Helvetica Neue',
+			fontSize : 18,
+			fontWeight : 'normal'
+	},
+	message : 'Loading....',
+	style : Ti.UI.iPhone.ActivityIndicatorStyle.PLAIN,
+	top : 30,
+	left : 100,
+	height : Ti.UI.SIZE,
+	width : Ti.UI.SIZE
+}
